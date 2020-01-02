@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577987838861.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5060E6CD",
+    "lastKnownWriteTime" : 1577988086,
+    "last_content_update" : 1577988086841,
+    "path" : "~/SC19085/R/iter_thresh_R.R",
+    "project_path" : "R/iter_thresh_R.R",
+    "properties" : {
+        "cursorPosition" : "11,19",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

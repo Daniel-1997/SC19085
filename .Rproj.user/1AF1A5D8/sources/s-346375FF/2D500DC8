@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1577987086139.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3936556832",
+    "id" : "2D500DC8",
+    "lastKnownWriteTime" : 1577987042,
+    "last_content_update" : 1577987042,
+    "path" : "~/SC19085/src/rw_Metro_C.cpp",
+    "project_path" : "src/rw_Metro_C.cpp",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "cpp"
+}
